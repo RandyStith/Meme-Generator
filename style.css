@@ -5,14 +5,14 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-image: url("app-background.png");
-  background-size: 3.12em;
+  background-image: url(img/images\ \(1\).jpg);
+  background-size: 12.12em;
 }
 .container {
   width: 80%;
   max-width: 37.5em;
   padding: 3em 1.5em;
-  background-color: #ffffff;
+  background-color: #9762a1;
   position: absolute;
   transform: translate(-50%, -50%);
   top: 50%;
@@ -34,7 +34,7 @@ body {
   font-weight: 400;
   text-align: center;
   text-transform: capitalize;
-  color: #737081;
+  color: #ffffff;
   letter-spacing: 0.03em;
 }
 .container button {

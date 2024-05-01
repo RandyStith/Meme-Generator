@@ -2,7 +2,7 @@ let meme = document.getElementById("meme");
 let title = document.getElementById("title");
 let getMemeBtn = document.getElementById("get-meme-btn");
 
-let url = " https://meme-api.com/gimme/";
+let url = "https://meme-api.com/gimme/";
 
 let subreddits = ["catmemes", "wholesomemes", "dogmemes", "me_irl"];
 
